@@ -26,4 +26,3 @@ Analyzed online retail sales data using Excel, Power Query, DAX, and Power BI to
 - Data Visualization
 - Dashboard Development
 - Business Insights
-- 
